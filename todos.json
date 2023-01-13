@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Tarea 1",
+      "done": false,
+      "id": 1
+    },
+    {
+      "title": "Tarea 2",
+      "done": false,
+      "id": 2
+    },
+    {
+      "title": "Tarea 3",
+      "done": false,
+      "id": 3
+    }
+  ]
+}
